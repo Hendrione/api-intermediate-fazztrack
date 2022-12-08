@@ -1,0 +1,14 @@
+{
+    "id": null,
+    "firstName": "Hendri",
+    "lastName": "Antomy",
+    "age": 30,
+    "occupation": "QA Engineer",
+    "nationality": "Indonesia",
+    "hobbies": [
+      "Gaming"
+    ],
+    "gender": "MALE",
+    "createdDate": "2022-11-27T02:36:45.676Z",
+    "updatedDate": "2022-11-27T02:36:45.676Z"
+}
